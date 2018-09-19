@@ -1,0 +1,2 @@
+class Unsocial < ApplicationRecord
+end
